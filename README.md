@@ -11,4 +11,4 @@ ThulileMasuku/ThulileMasuku is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 - Find me on linkein: www.linkedin.com/in/ thulile-a-masuku-1870a330b
--Find me on X :@Thulile720334
+- Find me on X :@Thulile720334
