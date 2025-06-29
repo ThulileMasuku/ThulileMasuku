@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThulileMasuku
-- 👀 I’m interested in ...Pro Front End
+- 👀 I’m interested in ...Front End
 - 🌱 I’m currently learning ...Everything about Pro Front End Dev
 - 💞️ I’m looking to collaborate on ...Projects
 - 📫 How to reach me ...thulilemasuku@yahoo.com
