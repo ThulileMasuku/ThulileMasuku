@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThulileMasuku
 - 👀 I’m interested in ...Front End
-- 🌱 I’m currently learning ...Everything about Pro Front End Dev
+- 🌱 I’m currently learning ...Everything about Front End Dev and Data Science
 - 💞️ I’m looking to collaborate on ...Projects
 - 📫 How to reach me ...thulilemasuku@yahoo.com
 - 😄 Pronouns: ...
