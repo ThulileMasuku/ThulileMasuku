@@ -10,16 +10,6 @@ I enjoy solving practical problems through design, technology, and security thin
 
 GitHub Stats
 
-Replace YOUR_USERNAME with your GitHub username.
-
-GitHub Stats:
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true
-
-Top Languages:
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME
-
-GitHub Streak:
-https://streak-stats.demolab.com/?user=YOUR_USERNAME
 
 What I Do
 
